@@ -33,7 +33,7 @@
 
 ### 其他信息
 
-- api文档地址
+- api文档地址（本地化运行）
 
 http://localhost:9002/swagger-ui.html
 - 来自网络资源的前端代码，并做了部分修改 
