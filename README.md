@@ -21,6 +21,7 @@
 倒入到本地idea后
 
 - application.yml 中修改数据库链接信息
+- 建库建表，本项目只提供建表源码，未提供数据插入源码，请读者自行编写
 - 注释掉pom.xml里的 排除tomcat配置
 - jdk设置为1.8
 - 全局Unicode最好设为utf-8
